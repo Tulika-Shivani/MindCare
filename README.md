@@ -1,2 +1,2 @@
 # MindCare
-A website for mental health
+ A website for mental wellbeing
