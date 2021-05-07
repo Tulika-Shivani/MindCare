@@ -66,7 +66,7 @@ body{
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 18px;
     background-color:darkturquoise;
     line-height: 50px;
     border:0px;
@@ -89,5 +89,16 @@ body{
 .nav a.active {
     background-color:#ddd;
     color: white;
+}
+.logout{
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    background-color:darkturquoise;
+    line-height: 50px;
+    border:0px;
+    font-family:'Times New Roman', Times, serif;
 }
 </style>

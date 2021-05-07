@@ -33,10 +33,11 @@
       <a href="ventitout.php">Vent-it-Out</a>
       <a href="contact.php">Seek Help</a>
       <a href="AboutUs.php">About Us</a>
+      <a href="./EmotionDetect/templates/home.html">Emotion Detector</a>
       <a href="login.php">Login</a>
       <a href="SignUp.php">Sign Up</a>
       <form method='post' action="">
-        <input type="submit" value="Logout" name="logout">
+        <input type="submit" class="logout" value="Logout" name="logout">
       </form>
     </div>
     <div class="about-section">
